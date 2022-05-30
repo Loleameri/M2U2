@@ -1,0 +1,43 @@
+/* font-family: 'Russo One', sans-serif; */
+.contenedor{
+    background-color: gray;
+    width: 600px;
+    height: 600px;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+
+    }
+    .roja{
+        background-color: red;
+        width: 200px;
+        height: 200px;
+        font-family: 'Russo One', sans-serif;
+        font-size: 24px;
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .naranja{
+        background-color: orange;
+        width: 200px;
+        height: 200px;
+        font-family: 'Russo One', sans-serif;
+        font-size: 24px;
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .verde{
+        background-color: green;
+        width: 200px;
+        height: 200px;
+        font-family: 'Russo One', sans-serif;
+        font-size: 24px;
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
